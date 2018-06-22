@@ -39,4 +39,7 @@ A Source Code for 16x2 LCD Rolling Text. Can be used for any text.
 </ol>
 
 <h2>Some Screenshots</h2>
-<img src="http://cdn.unydevelopernetwork.com/github/arduino-text-roll/photo6154452578142890063.jpg" width="320"/>&nbsp;<img src="http://cdn.unydevelopernetwork.com/github/arduino-text-roll/photo6154452578142890064.jpg" width="320"/>
+<img src="http://cdn.unydevelopernetwork.com/github/arduino-text-roll/photo6154452578142890063.jpg" width="320"/>
+<img src="http://cdn.unydevelopernetwork.com/github/arduino-text-roll/photo6154452578142890064.jpg" width="320"/>
+<h2>Video Preview</h2>
+<a href="https://www.youtube.com/watch?v=lXn9y9Rr24k" target="_blank"><img src="https://img.youtube.com/vi/lXn9y9Rr24k/0.jpg"></a>
