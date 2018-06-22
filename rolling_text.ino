@@ -15,10 +15,13 @@
 LiquidCrystal_I2C lcd(I2C_ADDR,En_pin,Rw_pin,Rs_pin,D4_pin,D5_pin,D6_pin,D7_pin);
 int i = 16;
 int j, alpha, redo, algebra = 0;
+
+//------------------------------------------------- instant usage -----------------------------------------------
 char mytext[] = "Hello, this is milstrike speaking. "; //Don't forget to add a white space in the end of the text.
 int lcdLine = 0; //choose line 1 (0) or line 2 (1);
 int rollSpeed = 250; //in millis
 int delayPerRoll = 1000; //in millis
+//---------------------------------------------------------------------------------------------------------------
 
 void setup(){
   lcd.begin (16,2); 
