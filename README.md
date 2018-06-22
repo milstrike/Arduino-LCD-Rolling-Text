@@ -18,7 +18,7 @@ A Source Code for 16x2 LCD Rolling Text. Can be used for any text.
   <li><strong>Setting for Text:</strong><br/>
     Change the text on: <strong>char mytext[]</strong><br/>
     <strong>DEFAULT:</strong> char mytext[] = "Hello, this is milstrike speaking. "; <br/>
-    You can change the text at will. For example: <strong>char mytext[] = "Hello, my name is John. ";</strong>
+    You can change the text at will. For example: <strong>char mytext[] = "Hello, my name is John. ";</strong><br/>
     <u>NOTES: </u> Don't forget to add a white space in the end of the text!
   </li>
   <li><strong>Setting for LCD Line:</strong><br/>
