@@ -1,4 +1,4 @@
-# Arduino-LCD-Rolling-Text
+# Arduino LCD Rolling Text
 A Source Code for 16x2 LCD Rolling Text. Can be used for any text.
 
 <h2>Tested with Arduino Mega 2560 & Arduino Uno</h2>
